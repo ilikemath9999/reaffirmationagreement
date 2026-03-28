@@ -1,0 +1,19 @@
+# reaffirmationagreement.com
+
+> Complete guide to reaffirmation agreements in bankruptcy. Learn what 11 U.S.C. Section 524(c) requires, when reaffirmation makes sense, the risks of signing, and how to rescind.
+
+## About
+
+reaffirmationagreement.com explains reaffirmation agreements under 11 U.S.C. Section 524(c), the voluntary agreements in which a debtor agrees to remain personally liable for a debt that would otherwise be discharged. The site covers when reaffirmation may make sense (keeping a car or home), the legal requirements for a valid agreement, risks of signing, the 60-day rescission period, and alternatives to reaffirmation.
+
+## Key Pages
+
+- [Home](https://reaffirmationagreement.com/): Complete guide to reaffirmation agreements -- requirements, risks, rescission rights, and alternatives
+
+## Network
+
+Part of the Open Bankruptcy Project (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "reaffirmationagreement.com, Open Bankruptcy Project (2026)."
